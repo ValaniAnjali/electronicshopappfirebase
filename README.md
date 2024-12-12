@@ -1,7 +1,7 @@
 **Preview of app:**
 
 
-https://github.com/user-attachments/assets/57c4979b-bf98-4c4b-b3af-1f665ceb652a
+https://github.com/user-attachments/assets/a48773c1-1f55-4a3e-b242-4fc47919780f
 
 ``
 
