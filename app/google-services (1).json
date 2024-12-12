@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "128000617455",
+    "firebase_url": "https://productselectronical-default-rtdb.firebaseio.com",
+    "project_id": "productselectronical",
+    "storage_bucket": "productselectronical.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128000617455:android:dd13a2276b00fb2f95a41a",
+        "android_client_info": {
+          "package_name": "com.example.sampleappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMe0wuNN-1Rni3HYD6Dbr1tz3lreSu4N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
